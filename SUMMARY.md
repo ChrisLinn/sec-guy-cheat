@@ -5,4 +5,5 @@
 * [Web](web.md)
 * [Linux](linux.md)
 * [Network](network.md)
+* [HR 面](hr.md)
 

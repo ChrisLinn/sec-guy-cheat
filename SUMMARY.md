@@ -7,5 +7,6 @@
 * [Linux](linux.md)
 * [Network](network.md)
 * [Crypto](crypto.md)
+* [Intrusion Detection](intr-detec.md)
 * [HR 面](hr.md)
 
